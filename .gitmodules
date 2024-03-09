@@ -37,6 +37,9 @@
 [submodule "C++ Range v3"]
 	path = app/libraries/range
 	url = https://github.com/ericniebler/range-v3
+[submodule "Sirit"]
+	path = app/libraries/sirit
+	url = https://github.com/yuzu-emu-mirror/sirit.git
 [submodule "Shader Compiler"]
 	path = app/libraries/shader-compiler
 	url = https://github.com/strato-emu/shader-compiler.git
@@ -55,6 +58,4 @@
 [submodule "app/libraries/audio-core"]
 	path = app/libraries/audio-core
 	url = https://github.com/skyline-emu/audio-core
-[submodule "app/libraries/sirit"]
-	path = app/libraries/sirit
-	url = https://github.com/yuzu-emu-mirror/sirit.git
+
